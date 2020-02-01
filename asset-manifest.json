@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/noteit/static/css/main.a3e22d32.chunk.css",
+    "main.js": "/noteit/static/js/main.88283ac6.chunk.js",
+    "main.js.map": "/noteit/static/js/main.88283ac6.chunk.js.map",
+    "runtime-main.js": "/noteit/static/js/runtime-main.452bdc43.js",
+    "runtime-main.js.map": "/noteit/static/js/runtime-main.452bdc43.js.map",
+    "static/js/2.0198b11e.chunk.js": "/noteit/static/js/2.0198b11e.chunk.js",
+    "static/js/2.0198b11e.chunk.js.map": "/noteit/static/js/2.0198b11e.chunk.js.map",
+    "index.html": "/noteit/index.html",
+    "precache-manifest.8a4b507ef4a587442fc12e6b1a41f970.js": "/noteit/precache-manifest.8a4b507ef4a587442fc12e6b1a41f970.js",
+    "service-worker.js": "/noteit/service-worker.js",
+    "static/css/main.a3e22d32.chunk.css.map": "/noteit/static/css/main.a3e22d32.chunk.css.map",
+    "static/js/2.0198b11e.chunk.js.LICENSE": "/noteit/static/js/2.0198b11e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.452bdc43.js",
+    "static/js/2.0198b11e.chunk.js",
+    "static/css/main.a3e22d32.chunk.css",
+    "static/js/main.88283ac6.chunk.js"
+  ]
+}
